@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Tue, 01 Dec 2020 12:49:45 at http://iboxbd.live/
+(httrack -i http://iboxbd.live/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:53:31	Error: 	"Not Found" (404) at link iboxbd.live/assets/images/anBDCINEPLEX.png (from iboxbd.live/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 52 seconds : 180 links scanned, 178 files written (3343708 bytes overall) [3221178 bytes received at 13884 bytes/sec], 234224 bytes transferred using HTTP compression in 80 files, ratio 29%, 11.2 requests per connection
+(1 errors, 0 warnings, 0 messages)

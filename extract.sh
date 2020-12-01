@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/scripts
+# cd ~/scripts
 httrack -i http://iboxbd.live/
 cd iboxbd.live
 echo "" > IPTV.m3u
