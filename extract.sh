@@ -13,9 +13,9 @@ for x in [player]*.html; do
 done
 
 cp IPTV.m3u ../../
-cp IPTV.m3u ~/Development/Github/M3u8-URL-Extractor-from-Live-Server
-cd ~/Development/Github/M3u8-URL-Extractor-from-Live-Server
+cp IPTV.m3u /Users/alighani/Desktop/Projects/M3u8-URL-Extractor-from-Live-Server
+cd /Users/alighani/Desktop/Projects/M3u8-URL-Extractor-from-Live-Server
 
 git add .
-git commit -m "Added Updated IPTV.m3u"
+git commit -m "Added Updated IPTV.m3u by Ali"
 git push origin master
